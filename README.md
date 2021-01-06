@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)
 
-- 🌱 I’m currently learning **Go,RabbitMQ, K8s, React**
+- 🌱 I’m currently learning **Go,Rust,RabbitMQ, K8s, React**
 
 - 👯 I’m looking to collaborate on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)
 
