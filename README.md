@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacsand" alt="sacsand" /></a> </p>
 
-- 🔭 I’m currently working on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)
+- 🔭 I’m currently working on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth) and [fiberPlus](https://github.com/fiberplus/fiberplus)
 
-- 🌱 I’m currently learning **Go,Rust,c++,RabbitMQ, K8s, React**
+- 🌱 I’m currently learning **Go,Rust,RabbitMQ, K8s, ReactJS**
 
-- 👯 I’m looking to collaborate on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)
+- 👯 I’m looking to collaborate on [fiberPlus](https://github.com/fiberplus/fiberplus)
 
 - 💬 Ask me about **Software Architecting or Database Modelling**
 
