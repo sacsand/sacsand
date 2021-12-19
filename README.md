@@ -26,8 +26,8 @@
 | [btc price fetcher](https://github.com/sacsand/btc-price-fetcher) | Go ,Docker      |    Perfect example of a API with repository pattern and dependency injection  |
 | [akuru-io/fontlet-explorer](https://github.com/akuru-io/fontlet-explorer) | JS, PowerShell, HTML, Electrone      |    Fontlet is a cross platform font installer and sync application for the desktop  |
 | [survive-together-api](https://github.com/LeafyCode/survive-together-api) | NodeJS     |    This website was created with the intention of helping people in this country with the current situation. The site was created under the theme “Survive Together”[survivetogether.org](https://survivetogether.org/about).   |
-|   [NFT Project](https://github.com/sacsand/gofiber-firebaseauth)   | ReactJS and Redux | on going NFT project UI |
-|   [BlockChain](https://github.com/sacsand/gofiber-firebaseauth)   | JS| sample blockchain written in js to understand how blockchain work before i was buying the first fraction of bitcoin in 2017  |
+|   [NFT Project](https://github.com/pickpic-co/pickpic-interface/tree/development)   | ReactJS and Redux | on going NFT project UI |
+|   [BlockChain](https://github.com/sacsand/myBlockChain)   | JS| sample blockchain written in js to understand how blockchain work before i was buying the first fraction of bitcoin in 2017  |
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
