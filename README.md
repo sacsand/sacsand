@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A Full Stack Developer from Sri Lanka Currently Lives in Hong Kong</h3>
+<h3 align="center">A Full Stack Developer from Sri Lanka , lives in Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsand&label=Profile%20views&color=0e75b6&style=flat" alt="sacsand" /> </p>
 
@@ -14,6 +14,20 @@
 - 💬 Ask me about **Software Architecting or Database Modelling**
 
 - 📫 How to reach me **sacsand.k@gmail.com**
+
+<h3> My open source Projects and Contributions </h3>
+
+| Project  | Tech  | Description |
+| :------------ |:---------------:| -----:|
+|   [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)   | Go , Firebase SDK, Circleci | Firebase Auth Middleware for [gofiber](https://github.com/gofiber) |
+| [fiberPlus](https://github.com/fiberplus/fiberplus)      | Go , Gofiber       |   Trying to make extended version of [gofiber](https://github.com/gofiber) Framework by mixing with Design Pattern and Creating CLI to generate code boilerplate |
+| [lankanic](https://github.com/sacsand/lanka-nic-2019) | JS,NPM      |   Sri Lankan National Identity Card Number Validator plus Swap between old and new format |
+|[firbase auth example](https://github.com/gofiber/recipes/tree/master/firebase-auth) | Go,Firbase SDK        |    Example usage of [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)   with [gofiber](https://github.com/gofiber)  |
+| [btc price fetcher](https://github.com/sacsand/btc-price-fetcher) | Go ,Docker      |    Perfect example of a API with repository pattern and dependency injection  |
+| [akuru-io/fontlet-explorer](https://github.com/akuru-io/fontlet-explorer) | JS, PowerShell, HTML, Electrone      |    Fontlet is a cross platform font installer and sync application for the desktop  |
+| [survive-together-api](https://github.com/LeafyCode/survive-together-api) | NodeJS     |    This website was created with the intention of helping people in this country with the current situation. The site was created under the theme “Survive Together”[survivetogether.org](https://survivetogether.org/about).   |
+|   [NFT Project](https://github.com/sacsand/gofiber-firebaseauth)   | ReactJS and Redux | on going NFT project UI |
+|   [BlockChain](https://github.com/sacsand/gofiber-firebaseauth)   | JS| sample blockchain written in js to understand how blockchain work before i was buying the first fraction of bitcoin in 2017  |
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
