@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsand&label=Profile%20views&color=0e75b6&style=flat" alt="sacsand" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacsand" alt="sacsand" /></a> </p>
-
 - 🔭 I’m currently working on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth) and [fiberPlus](https://github.com/fiberplus/fiberplus)
 
 - 🌱 I’m currently learning **Go,Rust,RabbitMQ, K8s, ReactJS**
@@ -28,6 +26,9 @@
 | [survive-together-api](https://github.com/LeafyCode/survive-together-api) | NodeJS     |    This project is to help people in sri lanka with the covid19 situation . The site was created under the theme “Survive Together”[survivetogether.org](https://survivetogether.org/about).   |
 |   [NFT Project](https://github.com/pickpic-co/pickpic-interface/tree/development)   | ReactJS and Redux | on going NFT project UI |
 |   [BlockChain](https://github.com/sacsand/myBlockChain)   | JS| sample blockchain written in js to understand how blockchain work before i was buying the first fraction of bitcoin in 2017  |
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacsand" alt="sacsand" /></a> </p>
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
