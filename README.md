@@ -1,41 +1,104 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A Full Stack Developer from Sri Lanka , lives in Hong Kong</h3>
+<h1 align="center">Hi 👋, I'm Sachintha Kodagoda</h1>
+<h3 align="center">CTO | Engineering Manager | AI Tech Lead </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsand&label=Profile%20views&color=0e75b6&style=flat" alt="sacsand" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sacsand&label=Profile%20views&color=0e75b6&style=flat" alt="sacsand" />
+</p>
 
-- 🔭 I’m currently working on [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth) and [fiberPlus](https://github.com/fiberplus/fiberplus)
+<p align="center">
+  <a href="https://sachintha.me" target="_blank">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/sachintha-kodagoda" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/sacsand" target="_blank">🐙 GitHub</a>
+</p>
 
-- 🌱 I’m currently learning **Go,Rust,RabbitMQ, K8s, ReactJS**
+---
 
-- 👯 I’m looking to collaborate on [fiberPlus](https://github.com/fiberplus/fiberplus)
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Software Architecting or Database Modelling**
+I'm a **Hong Kong based CTO and Engineering Leader** with 11+ years of experience building and scaling software products across APAC.
 
-- 📫 How to reach me **sacsand.k@gmail.com**
+- 🔭 I'm currently working on **AI Agents** and **Generative AI / RAG systems**
+- 🌱 I'm currently learning **Advanced AI Orchestration**, **K8s at scale**, and **Rust**
+- 👯 I'm looking to collaborate on **Open Source AI Agent frameworks**
+- 💬 Ask me about **System Architecture**, **Database Modeling**, **AI/ML Engineering**, or **Leading Engineering Teams**
+- 📫 How to reach me: **sacsand.k@gmail.com**
+- 🏠 Hong Kong Permanent Resident | 🇱🇰 Originally from Sri Lanka
 
-<h3> My open source Projects and Contributions </h3>
+---
 
-| Project  | Tech  | Description |
-| :------------ |:---------------:| -----:|
-|   [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)   | Go , Firebase SDK, Circleci | Firebase Auth Middleware for [gofiber](https://github.com/gofiber) |
-| [fiberPlus](https://github.com/fiberplus/fiberplus)      | Go , Gofiber       |   Trying to make extended version of [gofiber](https://github.com/gofiber) Framework by mixing with Design Pattern and Creating CLI to generate code boilerplate |
-| [lankanic](https://github.com/sacsand/lanka-nic-2019) | JS,NPM      |   Sri Lankan National Identity Card Number Validator plus Swap between old and new format |
-|[firbase auth example](https://github.com/gofiber/recipes/tree/master/firebase-auth) | Go,Firbase SDK        |    Example usage of [gofiberfirabse](https://github.com/sacsand/gofiber-firebaseauth)   with [gofiber](https://github.com/gofiber)  |
-| [btc price fetcher](https://github.com/sacsand/btc-price-fetcher) | Go ,Docker      |    Perfect example of a API with repository pattern and dependency injection  |
-| [akuru-io/fontlet-explorer](https://github.com/akuru-io/fontlet-explorer) | JS, PowerShell, HTML, Electrone      |    Fontlet is a cross platform font installer and sync application for the desktop  |
-| [survive-together-api](https://github.com/LeafyCode/survive-together-api) | NodeJS     |    This project is to help people in sri lanka with the covid19 situation . The site was created under the theme “Survive Together”[survivetogether.org](https://survivetogether.org/about).   |
-|   [NFT Project](https://github.com/pickpic-co/pickpic-interface/tree/development)   | ReactJS and Redux | on going NFT project UI |
-|   [BlockChain](https://github.com/sacsand/myBlockChain)   | JS| sample blockchain written in js to understand how blockchain work before i was buying the first fraction of bitcoin in 2017  |
+### 🚀 What I've Built & Led
 
+- **Co-Founder & CTO @ Expando AI** (2023–2026) – AI-powered B2B referral SaaS. Built from zero to revenue, led 20+ engineers, reduced infra costs by ~90%.
+- **Lead Engineer @ The Coding Machine** (2022–2023) – Recovered 6-month-delayed crypto platform, led fintech/web3/edtech portfolio.
+- **Tech Lead @ Veridate Financial** (2019–2020) – Multi-tenant AWS KYC portal, validated by AWS Hong Kong.
+- **35+ products** delivered across full-stack, cloud, AI, and DevOps.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacsand" alt="sacsand" /></a> </p>
+---
 
-<!-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> </p> -->
+### 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsand&show_icons=true&locale=en&layout=compact" alt="sacsand" /></p>
+| Area | Technologies |
+|------|--------------|
+| **Languages** | JavaScript, TypeScript, Go, Node.js, Rust, PHP, Python |
+| **Frontend** | Next.js, ReactJS, VueJS, Nuxtjs, AngularJS |
+| **Backend** | NestJS, ElysiaJS, Laravel, Symfony |
+| **Databases** | PostgreSQL, MySQL, Supabase, MongoDB, DynamoDB, Redis, Neo4j |
+| **Cloud & DevOps** | GCP, AWS, Docker, CI/CD, Coolify, Serverless Lambda |
+| **AI & Automation** | Generative AI, RAG, AI Agents, Prompt Engineering, OpenClaw, N8N |
+| **Leadership** | Agile (Scrum/Kanban), Technical Recruitment, Product Strategy, Technical Sales |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsand&show_icons=true&locale=en" alt="sacsand" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sacsand&" alt="sacsand" /></p>
+### 📦 My Open Source Projects & Contributions
+
+| Project | Tech | Description |
+|:--------|:----:|:------------|
+| [gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) | Go, Firebase SDK, CircleCI | Firebase Auth Middleware for GoFiber |
+| [fiberPlus](https://github.com/fiberplus/fiberplus) | Go, GoFiber | Extended GoFiber framework with design patterns + CLI boilerplate |
+| [lanka-nic-2019](https://github.com/sacsand/lanka-nic-2019) | JS, NPM | Sri Lankan National ID Card validator (old/new format) |
+| [btc-price-fetcher](https://github.com/sacsand/btc-price-fetcher) | Go, Docker | API with repository pattern + dependency injection |
+| [myBlockChain](https://github.com/sacsand/myBlockChain) | JS | Blockchain prototype built to understand crypto basics (2017) |
+| [firebase-auth example](https://github.com/gofiber/recipes/tree/master/firebase-auth) | Go, Firebase | Example integration for gofiber-firebaseauth |
+| [survive-together-api](https://github.com/LeafyCode/survive-together-api) | NodeJS | COVID-19 help platform for Sri Lanka |
+| [pickpic-interface](https://github.com/pickpic-co/pickpic-interface/tree/development) | ReactJS, Redux | NFT project UI (ongoing at the time) |
+
+---
+
+### 🧠 Featured AI & Side Projects
+
+- **[i18.dev](https://i18.dev)** – AI Agent for automated i18n translation flows
+- **[screenshotx402.com](https://screenshotx402.com)** – Screenshot tool for AI Agents with x402 payment support
+- **[fundssniper.com](https://www.fundssniper.com)** – Search engine for Private Equity & VC funds
+- **OpenClaw Agents** – Automation tools for team productivity
+
+---
+
+### 🏆 Recognition
+
+- Featured on **Hong Kong MTR** – [Master Insight article](https://www.master-insight.com/article/46446)
+- Speaker at **"What you building"** – [event link](https://ty8doqq.s.cy/eXdz84)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsand&show_icons=true&locale=en&layout=compact" alt="sacsand" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsand&show_icons=true&locale=en" alt="sacsand" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sacsand" alt="sacsand" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to discussing **AI engineering**, **tech leadership**, **system architecture**, or **collaborations on open source**. Feel free to reach out!
+
+📧 sacsand.k@gmail.com  
+🌐 https://sachintha.me
